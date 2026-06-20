@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['computer monitor']
+
+roboflow:
+  workspace: saidul-islam-3lf6h
+  project: saidul-islam-3lf6h
+  version: dataset
+  license: Private
+  url: https://app.roboflow.com/saidul-islam-3lf6h/saidul-islam-3lf6h/dataset

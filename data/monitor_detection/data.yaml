@@ -1,0 +1,7 @@
+path: /home/saidul/Desktop/4-2/Deep Learning/data/monitor_detection
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: monitor
