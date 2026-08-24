@@ -1,3 +1,4 @@
 1. Generate pdf from a jupyter notebook with the outputs: 
-  jupyter nbconvert --to webpdf --allow-chromium-download your_notebook.ipynb
+jupyter nbconvert --to webpdf --allow-chromium-download your_notebook.ipynb
 
+pdflatex main.tex

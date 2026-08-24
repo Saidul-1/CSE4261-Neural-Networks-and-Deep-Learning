@@ -3,3 +3,5 @@ myenv/
 data/5_celebrity_faces/
 data/Totally_Looks_Like/
 data/wider_face/
+*
+!*.ipynb
